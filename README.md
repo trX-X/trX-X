@@ -9,4 +9,4 @@ trX-X/trX-X is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-A Feedback App : https://wizardly-kare-0d72d5.netlify.app/
+Github Finder App : https://github-finder-plum-nine.vercel.app/
